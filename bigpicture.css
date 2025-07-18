@@ -1,0 +1,66 @@
+._1YqjVUO3KYLRq_mer-HsUX > div {
+  border-radius: 8px;
+  border: 2px solid #7c6d72;
+  box-sizing: border-box !important;
+}
+._1YqjVUO3KYLRq_mer-HsUX {
+  padding: 2px !important;
+}
+
+.Row_0 > div > div > div {
+  background-color: #f3a1ba;
+}
+.Row_1 > div > div > div {
+  background-color: #f6b9cb;
+}
+.Row_2 > div > div > div {
+  background-color: #f9d0dc;
+}
+.Row_3 > div > div > div {
+  background-color: #fce8ee;
+}
+.Row_4 > div > div > div {
+  background-color: #fdf3f6;
+}
+
+.DefaultTheme {
+  --background-color: #f0ede8 !important;
+  --key-color: #84747a !important;
+  --key-shift-color: #84747a !important;
+  --key-caps-color: #84747a !important;
+  --key-tab-color: #84747a !important;
+  --key-enter-color: #84747a !important;
+  --key-backspace-color: #84747a;
+}
+
+.DefaultTheme ._2KhPXikozxMpbIRo_6jPxW._3UFQq1GinEyksceos-TETi {
+  background-color: #986675;
+}
+
+/*icons*/
+
+img[data-key="Backspace"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+
+img[data-key="CapsLock"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+img[data-key="Enter"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+img[data-key="Shift"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+img[data-key="Space"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+img[data-key="Steam Chat Items"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}

@@ -1,16 +1,15 @@
-# 🌸˚˖⋆ ──★ CSS Loader Pink Keyboard Theme ˚˖⋆ ──★ 🌸
+# 🌸 ⋆ ★ CSS Loader Pink Keyboard Theme ★ ⋆ 🌸
 
-A soft and adorable pink-themed Steam Deck keyboard skin made for lovers of cute aesthetics and clean layouts.  
-This theme transforms your Deck's on-screen keyboard into a colorful, rounded 60% layout with pastel vibes.
+Pink keyboard for CSS Loader :3
 
 ![Pink Keyboard Preview](./preview.png)
 
 ---
 
-## 💖 Features
+## Features
 
-- 🌸 _Pretty-in-pink pastel palette_
-- 💅 Rounded keycaps for a soft look
+- _Pink pastel palette_
+- Rounded keycaps for a soft look
 - 🌈 Different colors for each row
 - 🎮 Works with [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) + [CSS Loader](https://github.com/EMERALDGEEKS/css-loader)
 
