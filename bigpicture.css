@@ -31,6 +31,7 @@
   --key-tab-color: #84747a !important;
   --key-enter-color: #84747a !important;
   --key-backspace-color: #84747a;
+  --key-action-button-glyph-color: #84747a;
 }
 
 .DefaultTheme ._2KhPXikozxMpbIRo_6jPxW._3UFQq1GinEyksceos-TETi {
@@ -63,4 +64,23 @@ img[data-key="Space"] {
 img[data-key="Steam Chat Items"] {
   filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
     hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+img[data-key="Steam Chat Items"] {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+._2KhPXikozxMpbIRo_6jPxW._21EoN2ZlmHNY3fjho_HMae img {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+._3VtXfHDGV1q2LCVruVnHed._2bothi051q1YZqD6NGaoDB > img {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(6%) saturate(578%)
+    hue-rotate(286deg) brightness(104%) contrast(93%);
+}
+.gbo6EORF-ApmV-2TYgZPr * {
+  user-select: none;
+  fill: #84747a !important;
+}
+._2KhPXikozxMpbIRo_6jPxW > span {
+  color: #84747a;
 }
