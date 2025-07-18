@@ -2,7 +2,7 @@
 
 Pink keyboard for CSS Loader :3
 
-![Pink Keyboard Preview](./preview.png)
+![Pink Keyboard Preview](./Screenshot.png)
 
 ---
 
