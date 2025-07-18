@@ -6,7 +6,6 @@
   "version": "v1.0",
   "target": "Keyboard",
   "inject": {
-    "bigpicture.css": ["bigpicture"],
-    "bigpictureoverlay.css": ["bigpictureoverlay"]
+    "bigpicture.css": ["bigpicture"]
   }
 }
