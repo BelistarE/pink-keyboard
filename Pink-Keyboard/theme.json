@@ -1,0 +1,11 @@
+{
+  "name": "Pink Keyboard",
+  "author": "bonko",
+  "description": "Pink keyboard",
+  "manifest_version": 8,
+  "version": "v1.0",
+  "target": "Keyboard",
+  "inject": {
+    "bigpicture.css": ["bigpicture"]
+  }
+}
