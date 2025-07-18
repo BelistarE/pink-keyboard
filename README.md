@@ -17,6 +17,12 @@ Pink keyboard for CSS Loader :3
 
 ## 📦 Installation
 
+_Recommended_
+
+Install directly from CSSLoader Store
+
+_Manual Install_
+
 1. Make sure you have [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) and the **CSS Loader** plugin installed.
 2. Download or clone this theme repo into your Steam Deck.
 3. Move the theme folder to:
@@ -30,8 +36,7 @@ Pink keyboard for CSS Loader :3
 
 ## 🛠️ Customization
 
-Want to tweak the colors or shapes?  
-Edit the `theme.css` file inside the theme folder.
+There is no customization yet, but I plan to add a slider for roundedness and an option to switch from gradient to solid.
 
 ---
 
