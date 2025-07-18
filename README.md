@@ -1,2 +1,1 @@
-# Steam-Deck-Theme-Template
-Template repository to get started with theming quicker
+# CSS Loader Pink Keyboard Theme
